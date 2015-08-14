@@ -296,6 +296,7 @@ https://github.com/dm77/barcodescanner
 https://github.com/iammert/FastGCM
 
 Design
+
 http://www.hackdesign.org/lessons
 http://blog.mobiloitte.com/top-landing-page-design-examples/
 http://blog.mobiloitte.com/30-reasons-for-uninstalling-a-mobile-app/
