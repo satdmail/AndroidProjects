@@ -21,53 +21,53 @@
 * https://github.com/Serchinastico/CoolSwitch
 * https://github.com/thiagolocatelli/android-instagram-oauth
 * http://square.github.io
-https://github.com/sagivo/algorithms
-https://github.com/EvgenyKarkan/EKAlgorithms/blob/master/README.md
-https://github.com/jgilfelt/android-viewbadger
-https://github.com/ark/ark
-https://github.com/survivingwithandroid?tab=repositories
-https://github.com/dkunzler/esperandro
-https://github.com/JohnPersano/SuperToasts
-https://github.com/facebook
-https://github.com/twitter
-https://github.com/google
-https://github.com/etsy/AndroidStaggeredGrid
-https://github.com/roboguice/roboguice
-https://github.com/telly/groundy
-https://github.com/octo-online/robospice
-https://github.com/gabrielemariotti/cardslib
-https://github.com/kikoso/android-stackblur
-https://github.com/castorflex/SmoothProgressBar
-https://github.com/mariotaku/RefreshNow
-https://github.com/nostra13/Android-Universal-Image-Loader
-https://github.com/negusoft/holoaccent
-https://github.com/facebook/facebook-android-sdk/tree/master/examples/simple/src/com/facebook/android
-http://www.vogella.com/articles/AndroidListView/article.html
-https://github.com/johannilsson/android-actionbar
-https://github.com/xtremelabs/xl-image_utils_lib-android
-https://github.com/xtremelabs
-https://github.com/koush
-https://github.com/ManuelPeinado/FadingActionBar
-https://github.com/CNA
-https://github.com/jgilfelt/android-adt-templates
-https://github.com/commonsguy
-https://github.com/bitstadium/HockeySDK-Android
-https://github.com/nicklockwood/iVersion
-https://github.com/commonsguy/cw-android
-https://github.com/JakeWharton
-https://github.com/eclipsesource/tabris-demos/tree/0.10.0
-http://www.vogella.com/articles/DesignPatterns/article.html
-https://github.com/Sottti/Buttons
-https://github.com/foxykeep/DataDroid
-https://github.com/koush/AndroidAsync
-https://github.com/ragunathjawahar/android-typeface-textview/blob/master/library/src/com/mobsandgeeks/ui/TypefaceTextView.java
-https://github.com/inmite
-https://github.com/Prototik/HoloEverywhere
-https://bitbucket.org/ScruffyFox/slidingmenu/overview
-https://bitbucket.org/ScruffyFox
-https://bitbucket.org/leispire?page=3
-https://bitbucket.org/hascode
-https://bitbucket.org/vengeance_mj
+* https://github.com/sagivo/algorithms
+* https://github.com/EvgenyKarkan/EKAlgorithms/blob/master/README.md
+* https://github.com/jgilfelt/android-viewbadger
+* https://github.com/ark/ark
+* https://github.com/survivingwithandroid?tab=repositories
+* https://github.com/dkunzler/esperandro
+* https://github.com/JohnPersano/SuperToasts
+* https://github.com/facebook
+* https://github.com/twitter
+* https://github.com/google
+* https://github.com/etsy/AndroidStaggeredGrid
+* https://github.com/roboguice/roboguice
+* https://github.com/telly/groundy
+* https://github.com/octo-online/robospice
+* https://github.com/gabrielemariotti/cardslib
+* https://github.com/kikoso/android-stackblur
+* https://github.com/castorflex/SmoothProgressBar
+* https://github.com/mariotaku/RefreshNow
+* https://github.com/nostra13/Android-Universal-Image-Loader
+* https://github.com/negusoft/holoaccent
+* https://github.com/facebook/facebook-android-sdk/tree/master/examples/simple/src/com/facebook/android
+* http://www.vogella.com/articles/AndroidListView/article.html
+* https://github.com/johannilsson/android-actionbar
+* https://github.com/xtremelabs/xl-image_utils_lib-android
+* https://github.com/xtremelabs
+* https://github.com/koush
+* https://github.com/ManuelPeinado/FadingActionBar
+* https://github.com/CNA
+* https://github.com/jgilfelt/android-adt-templates
+* https://github.com/commonsguy
+* https://github.com/bitstadium/HockeySDK-Android
+* https://github.com/nicklockwood/iVersion
+* https://github.com/commonsguy/cw-android
+* https://github.com/JakeWharton
+* https://github.com/eclipsesource/tabris-demos/tree/0.10.0
+* http://www.vogella.com/articles/DesignPatterns/article.html
+* https://github.com/Sottti/Buttons
+* https://github.com/foxykeep/DataDroid
+* https://github.com/koush/AndroidAsync
+* https://github.com/ragunathjawahar/android-typeface-textview/blob/master/library/src/com/mobsandgeeks/ui/TypefaceTextView.java
+* https://github.com/inmite
+* https://github.com/Prototik/HoloEverywhere
+* https://bitbucket.org/ScruffyFox/slidingmenu/overview
+* https://bitbucket.org/ScruffyFox
+* https://bitbucket.org/leispire?page=3
+* https://bitbucket.org/hascode
+
 https://bitbucket.org/alexsapran
 https://github.com/johnjohndoe/Android-Developers-Samples
 https://github.com/maurycyw/StaggeredGridView
@@ -265,93 +265,94 @@ https://github.com/cesards/AndroidShell
 https://github.com/cesards/WonderAdapter
 https://github.com/bluelinelabs/LoganSquare
 https://github.com/pedrovgs/Lynx
-https://github.com/pedrovgs/EffectiveAndroidUI
-https://github.com/pedrovgs/DraggablePanel
-https://github.com/afollestad/material-dialogs
-https://github.com/afollestad/kitkat-transparency-demo
-https://github.com/basil2style/getid
-https://github.com/wangjiegulu/WheelView
-https://github.com/mikepenz/MaterialDrawer
-https://github.com/mikepenz/twoway-view
-https://github.com/mikepenz/android-arsenal.com
-https://github.com/mikepenz/android-flat-button
-https://github.com/mikepenz/Caldroid
-https://github.com/fabiendevos/nanotasks
-https://github.com/nhaarman/Triad
-https://github.com/koral--/android-gif-drawable
-https://github.com/facebook/shimmer-android
-https://github.com/lgvalle/Material-Animations
-https://github.com/y3sh/Intellij-Colors-Sublime-Monokai
-https://github.com/xsenselabs
-https://github.com/ReactiveX/RxJava/wiki
-https://github.com/Yalantis/Euclid
-https://github.com/Yalantis/Taurus
-https://github.com/facebook/fresco
-https://github.com/impertio/bookmarks
-https://github.com/jaydeepw/android-utils
-https://github.com/ophio
-https://github.com/worker8/TourGuide
-http://www.vogella.com/code/index.html
-https://github.com/dm77/barcodescanner
-https://github.com/iammert/FastGCM
+* https://github.com/pedrovgs/EffectiveAndroidUI
+* https://github.com/pedrovgs/DraggablePanel
+* https://github.com/afollestad/material-dialogs
+* https://github.com/afollestad/kitkat-transparency-demo
+* https://github.com/basil2style/getid
+* https://github.com/wangjiegulu/WheelView
+* https://github.com/mikepenz/MaterialDrawer
+* https://github.com/mikepenz/twoway-view
+* https://github.com/mikepenz/android-arsenal.com
+* https://github.com/mikepenz/android-flat-button
+* https://github.com/mikepenz/Caldroid
+* https://github.com/fabiendevos/nanotasks
+* https://github.com/nhaarman/Triad
+* https://github.com/koral--/android-gif-drawable
+* https://github.com/facebook/shimmer-android
+* https://github.com/lgvalle/Material-Animations
+* https://github.com/y3sh/Intellij-Colors-Sublime-Monokai
+* https://github.com/xsenselabs
+* https://github.com/ReactiveX/RxJava/wiki
+* https://github.com/Yalantis/Euclid
+* https://github.com/Yalantis/Taurus
+* https://github.com/facebook/fresco
+* https://github.com/impertio/bookmarks
+* https://github.com/jaydeepw/android-utils
+* https://github.com/ophio
+* https://github.com/worker8/TourGuide
+* http://www.vogella.com/code/index.html
+* https://github.com/dm77/barcodescanner
+* https://github.com/iammert/FastGCM
 
-Design
+# Design
 
-http://www.hackdesign.org/lessons
-http://blog.mobiloitte.com/top-landing-page-design-examples/
-http://blog.mobiloitte.com/30-reasons-for-uninstalling-a-mobile-app/
-http://mycolorscreen.com/themer-submission/
-http://www.androidpatterns.com/
-http://www.android-app-patterns.com/
-http://android.inspired-ui.com/
-http://androiduiux.com/
-http://blog.stylingandroid.com/
-http://www.androidicons.com/
-http://jimulabs.com/beta/
-http://codecondo.com/6-js-libraries-building-visualized-charts-graphs/
-http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html
-http://www.infragistics.com/products/indigo-studio
-http://hateum.github.io/AndroidDrawableGenerator/
-http://www.wifeo.com/pictos-gratuits-creation-site.php?ordre=&couleur_select=&limite=52
-http://www.androiddesign.tips/
-http://www.android-app-patterns.com/?utm_source=androidweekly&utm_source=androidweekly&utm_medium=toolbox
-http://signa.li/
-http://angrytools.com/android/button/
-https://www.buzzingandroid.com/tools/android-layout-finder/
-https://dribbble.com/shots/1683873-Android-L-GUI-KIT
-http://sebastien-gabriel.com/designers-guide-to-dpi/home
-http://goldtree.co.za/blog/best-user-interface-designs-of-android-l-material-design/
-http://www.google.com/design/spec/style/color.html#
-https://github.com/theDazzler/droidicon
-http://www.androidzeitgeist.com/2014/11/introducing-android-network-intents17.html
-http://www.pixshub.com/
-https://github.com/MostafaGazar/soas
-http://www.androiduipatterns.com/
-https://github.com/robertoestivill/AndroidViewAnimations
-https://github.com/nhaarman/ListViewAnimations
-https://github.com/wasabeef/awesome-android-ui
-https://github.com/markushi/android-ui
-https://github.com/thiagolocatelli/android-uitableview
-https://github.com/negusoft/GreenMatter
-https://github.com/AlbertGrobas
-https://github.com/nicolasjafelle
-https://github.com/cesarferreira/colorize
-https://github.com/PaoloRotolo/AppIntro
-https://github.com/lightSky/Awesome-MaterialDesign
-https://github.com/tyorikan/voice-recording-visualizer
-https://github.com/tyorikan/awesome-android-ui
-https://github.com/lawloretienne/Trestle
-https://github.com/mrwonderman/driveimageview
-https://github.com/cooltechworks/BitmapMerger
-https://github.com/cimi-chen/EaseInterpolator
-https://github.com/toddway/MaterialTransitions
-https://github.com/siriscac
-https://github.com/nshmura/RecyclerTabLayout
-https://github.com/florent37/Carpaccio
-https://github.com/commit-non-javisti/databinding
-http://stablekernel.com/blog/category/developer/android-programming/
-https://projects.invisionapp.com/d/main#/projects
-https://github.com/chrisbanes/cheesesquare
-http://www.dittotv.com/tvshows/omkaram
-https://github.com/JorgeCastilloPrz/AndroidFillableLoaders
-https://github.com/fenjuly/ArrowDownloadButton
+* http://www.hackdesign.org/lessons
+* http://blog.mobiloitte.com/top-landing-page-design-examples/
+* http://blog.mobiloitte.com/30-reasons-for-uninstalling-a-mobile-app/
+* http://mycolorscreen.com/themer-submission/
+* http://www.androidpatterns.com/
+* http://www.android-app-patterns.com/
+* http://android.inspired-ui.com/
+* http://androiduiux.com/
+* http://blog.stylingandroid.com/
+* http://www.androidicons.com/
+* http://jimulabs.com/beta/
+* http://codecondo.com/6-js-libraries-building-visualized-charts-graphs/
+* http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html
+* http://www.infragistics.com/products/indigo-studio
+* http://hateum.github.io/AndroidDrawableGenerator/
+* http://www.androiddesign.tips/
+* http://signa.li/
+* http://angrytools.com/android/button/
+* https://www.buzzingandroid.com/tools/android-layout-finder/
+* https://dribbble.com/shots/1683873-Android-L-GUI-KIT
+* http://sebastien-gabriel.com/designers-guide-to-dpi/home
+* http://goldtree.co.za/blog/best-user-interface-designs-of-android-l-material-design/
+* http://www.google.com/design/spec/style/color.html#
+* https://github.com/theDazzler/droidicon
+* http://www.androidzeitgeist.com/2014/11/introducing-android-network-intents17.html
+* http://www.pixshub.com/
+* https://github.com/MostafaGazar/soas
+* http://www.androiduipatterns.com/
+* https://github.com/robertoestivill/AndroidViewAnimations
+* https://github.com/nhaarman/ListViewAnimations
+* https://github.com/wasabeef/awesome-android-ui
+* https://github.com/markushi/android-ui
+* https://github.com/thiagolocatelli/android-uitableview
+* https://github.com/negusoft/GreenMatter
+* https://github.com/AlbertGrobas
+* https://github.com/nicolasjafelle
+* https://github.com/cesarferreira/colorize
+* https://github.com/PaoloRotolo/AppIntro
+* https://github.com/lightSky/Awesome-MaterialDesign
+* https://github.com/tyorikan/voice-recording-visualizer
+* https://github.com/tyorikan/awesome-android-ui
+* https://github.com/lawloretienne/Trestle
+* https://github.com/mrwonderman/driveimageview
+* https://github.com/cooltechworks/BitmapMerger
+* https://github.com/cimi-chen/EaseInterpolator
+* https://github.com/toddway/MaterialTransitions
+* https://github.com/siriscac
+* https://github.com/nshmura/RecyclerTabLayout
+* https://github.com/florent37/Carpaccio
+* https://github.com/commit-non-javisti/databinding
+* http://stablekernel.com/blog/category/developer/android-programming/
+* https://projects.invisionapp.com/d/main#/projects
+* https://github.com/chrisbanes/cheesesquare
+* http://www.dittotv.com/tvshows/omkaram
+* https://github.com/JorgeCastilloPrz/AndroidFillableLoaders
+* https://github.com/fenjuly/ArrowDownloadButton
+* http://www.android-app-patterns.com/?utm_source=androidweekly&utm_source=androidweekly&utm_medium=toolbox
+* http://www.wifeo.com/pictos-gratuits-creation-site.php?ordre=&couleur_select=&limite=52
+* https://bitbucket.org/vengeance_mj
