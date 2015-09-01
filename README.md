@@ -67,204 +67,203 @@
 * https://bitbucket.org/ScruffyFox
 * https://bitbucket.org/leispire?page=3
 * https://bitbucket.org/hascode
-
-https://bitbucket.org/alexsapran
-https://github.com/johnjohndoe/Android-Developers-Samples
-https://github.com/maurycyw/StaggeredGridView
-https://github.com/JakeWharton/hugo
-https://github.com/ACRA/acra
-https://github.com/chrisbanes
-https://github.com/bmeike
-https://github.com/zenyagami/cardslib
-https://github.com/inmite/android-styled-dialogs
-https://github.com/inmite/android-grid-wichterle
-https://github.com/inmite/android-butterknife-zelezny
-https://github.com/andersericsson
-https://github.com/koush/ion
-https://github.com/Androguide
-https://github.com/passsy
-https://github.com/Todd-Davies/ProgressWheel
-https://github.com/gabrielemariotti
-https://github.com/BoD/android-contentprovider-generator
-https://github.com/mrleolink/SimpleInfiniteCarousel
-https://github.com/flavioarfaria
-https://github.com/restlet/restlet-framework-java/wiki/Road-map-of-version-2.3
-https://github.com/nicolasjafelle?tab=repositories
-https://github.com/hoang8f?tab=repositories
-https://github.com/umano/MultiItemRowListAdapter
-https://github.com/nvanbenschoten/motion
-https://github.com/passsy/android-HoloCircularProgressBar
-https://github.com/nicolasjafelle/PagingListView
-https://github.com/square
-https://github.com/kshark27?tab=repositories
-https://github.com/futuresimple/android-datepickers
-https://github.com/antoniolg?tab=repositories
-https://github.com/SueSmith?tab=repositories
-https://github.com/iPaulPro/Android-TextViewPager
-https://github.com/dmytrodanylyk/android-process-buton
-https://github.com/dmytrodanylyk/volley-sample
-https://github.com/dommerq/SuperListview
-https://github.com/dommerq?tab=repositories
-https://github.com/saik0/UnifiedPreference
-https://github.com/saik0/Android-RobotoTextView
-https://github.com/lzanita09?tab=repositories
-https://github.com/ogrebgr/android_volley_examples
-https://github.com/ogrebgr/khandroid/tree/master/khandroid_lib/src/com/github/khandroid/rest
-https://github.com/mattprecious/telescope
-https://github.com/mattprecious/locationnotifier
-https://github.com/smanikandan14/Volley-demo
-https://github.com/alexvasilkov/fluffy-commons
-https://github.com/ManuelPeinado?tab=repositories
-https://github.com/ManuelPeinado/MultiChoiceAdapter
-https://github.com/ManuelPeinado/Calligraphy
-https://github.com/hateum/gast-lib
-https://github.com/raweng/android-different-loading-animations
-https://github.com/negusoft/NativeResources
-https://github.com/kikoso/Swipeable-Cards
-https://github.com/hoang8f/android-flat-button
-https://github.com/hoang8f/Sensor-Logger
-https://github.com/hoang8f/android-segmented-control
-https://github.com/erchenger/SizeAdjustingTextView/tree/master/SizeAdjustingTextView/src/com/elliott/chenger/sizeadjustingtextview
-https://github.com/dommerq/SuperListview/
-https://github.com/kolipass/RoundedImageView
-https://github.com/daimajia/AndroidImageSlider
-https://github.com/medyo/dynamicbox
-https://github.com/afollestad/Cards-UI
-https://github.com/DesarrolloAntonio/FragmentTransactionExtended
-https://github.com/r0adkll/deadSkunk
-https://github.com/r0adkll/AlphaHex
-https://github.com/Alexrs95/CircularButton
-https://github.com/marvinlabs/android-intents
-https://github.com/dmytrodanylyk/circular-progress-button
-https://github.com/matrixxun/PullToZoomInListView
-https://github.com/medyo
-https://github.com/groodt?tab=repositories
-https://github.com/tizionario
-https://github.com/FilipPudak/ProgressPieView
-https://github.com/Sefford/CircularProgressDrawable
-http://blog.danlew.net/2014/03/30/android-tips-round-up-part-1/
-https://github.com/lulumeya/passbookview
-https://github.com/gabrielemariotti/AndroidStudioTemplate
-http://antonioleiva.com/
-https://github.com/chrisbanes/philm
-https://github.com/keyboardsurfer/Crouton
-https://github.com/dschuermann/html-textview
-https://github.com/Pixplicity/EasyPreferences
-https://github.com/daimajia/AndroidViewAnimations
-https://github.com/ViewsForAndroid/generator-andy/blob/develop/README.md
-https://github.com/aws/aws-sdk-android/tree/master/src/com/amazonaws
-https://github.com/daimajia/AnimationEasingFunctions
-https://github.com/daimajia/Android-Charts
-https://github.com/googlesamples
-https://github.com/Androguide/cardsui-for-android
-https://github.com/google/iosched
-https://github.com/hmkcode/Android
-https://github.com/rampo/ShowcaseView
-https://github.com/Pkmmte/CircularImageView
-https://github.com/blackfizz/EazeGraph
-http://bos-tgdev01wv/DispatchCreatorPortal/Dispatch/Create
-https://github.com/mrmans0n/smart-location-lib
-https://github.com/mikepenz/Android-ActionItemBadge
-https://github.com/aporter/coursera-android/tree/master/Examples
-https://github.com/mmBs/NavigationDrawerSI
-https://github.com/premnirmal
-https://github.com/pavlospt
-https://github.com/thuytrinh
-http://alamkanak.github.io/android-libraries-and-resources/
-https://github.com/pavlospt/CircleView
-https://github.com/moondroid/SeekBarHint
-https://github.com/tuenti/ButtonMenu
-https://github.com/yoavst/quickapps
-https://github.com/makovkastar/FloatingActionButton
-https://github.com/medyo/fancybuttons
-https://github.com/rampo/UpdateChecker
-https://github.com/umeng/apf
-https://github.com/umeng/umeng-android-sdk-theme
-https://github.com/commonsguy/cw-advandroid
-https://github.com/shir60bhushan
-https://github.com/ligi/AXT
-https://github.com/lewisjdeane/L-Dialogs
-https://github.com/serso/android-checkout
-https://github.com/sockeqwe/CircleProgressView
-https://github.com/liu-yanjun/crash-log-report
-https://github.com/Arasthel/SwissKnife
-https://github.com/marcoRS
-https://github.com/evothings
-https://github.com/gorbin/ASNE
-https://github.com/castorflex/SmoothProgressBar/tree/dev
-https://github.com/path/android-priority-jobqueue
-https://github.com/marvinlabs/android-floatinglabel-widgets
-https://github.com/satyan/sugar
-https://github.com/PaulTR/AndroidDemoProjects/tree/master/Animations
-https://github.com/daimajia/AndroidSwipeLayout
-https://github.com/TwistedEquations/TwistVolley
-https://github.com/MostafaGazar/Widgets
-https://github.com/lawloretienne/QuickReturn
-https://github.com/lucasr
-https://github.com/2359media/EasyAndroidAnimations
-https://github.com/lucasr/dspec
-https://github.com/ssaurel/android-clock-livewallpaper
-https://github.com/MrEngineer13/SnackBar
-https://github.com/Instagram/ig-json-parser/
-https://github.com/cymcsg/UltimateAndroid#english_introduction
-https://github.com/alamkanak/Android-Week-View
-https://github.com/norbsoft/android-typeface-helper
-https://github.com/markushi/android-circlebutton
-https://github.com/fnk0/Android-Wear-Codelab
-https://github.com/dmytrodanylyk
-https://github.com/klinker24/Talon-for-Twitter
-https://github.com/I-am-Reinvented/ToolbarMenudrawer
-https://github.com/baoyongzhang/android-PullRefreshLayout
-https://github.com/ribot?page=2
-https://github.com/kanytu/android-parallax-recyclerview
-https://github.com/skyfishjy/android-ripple-background
-https://github.com/ReactiveX/RxAndroid
-https://github.com/BlueMor/Android-PullLayout
-https://github.com/pavlospt/RoundedLetterView
-https://github.com/beworker/tinybus
-https://github.com/ksoichiro/Android-ObservableScrollView
-https://github.com/pnikosis/materialish-progress
-https://github.com/chiuki/advanced-textview
-https://github.com/kapoor/Android_Example_Projects
-https://github.com/kyze8439690/RevealLayout
-https://github.com/mikepenz/Android-Iconics
-https://github.com/mikepenz/LollipopShowcase
-https://github.com/saulmm/Android-Material-Example
-https://github.com/agrosner/DBFlow
-https://github.com/afollestad/material-dialogs/
-https://github.com/draskosaric/MedicalReminder
-http://buildingandroidapps.com/
-https://github.com/mattlogan/NDKTest
-https://github.com/Kursulla
-https://github.com/mikepenz
-https://github.com/tekinarslan/AndroidMaterialDesignToolbar
-http://www.nickjr.com/kids/paw-patrol/
-https://github.com/sakebook
-https://github.com/JakeWharton/Telecine
-https://github.com/realtime-framework
-https://github.com/EverythingMe/android-logger
-https://github.com/EverythingMe/plaxien
-https://github.com/orhanobut/wasp
-https://github.com/polok/TaggerString
-https://github.com/snowdream/awesome-android
-https://github.com/snowdream
-https://github.com/szugyi/Android-CircleMenu
-https://github.com/oguzbilgener/CircularFloatingActionMenu
-https://github.com/Avocarrot/json2view
-https://github.com/PhilJay/AndroidElementals
-https://github.com/alexzaitsev/freepager
-https://github.com/googlesamples/android-play-location
-https://github.com/andnexus/android-testing
-https://github.com/avast/android-styled-dialogs
-https://github.com/mrmans0n/clusterer
-https://github.com/cymcsg/UltimateAndroid
-https://github.com/nhaarman/supertooltips
-https://github.com/nhaarman/trinity
-https://github.com/cesards/AndroidElementals
-https://github.com/cesards/AndroidShell
-https://github.com/cesards/WonderAdapter
-https://github.com/bluelinelabs/LoganSquare
-https://github.com/pedrovgs/Lynx
+* https://bitbucket.org/alexsapran
+* https://github.com/johnjohndoe/Android-Developers-Samples
+* https://github.com/maurycyw/StaggeredGridView
+* https://github.com/JakeWharton/hugo
+* https://github.com/ACRA/acra
+* https://github.com/chrisbanes
+* https://github.com/bmeike
+* https://github.com/zenyagami/cardslib
+* https://github.com/inmite/android-styled-dialogs
+* https://github.com/inmite/android-grid-wichterle
+* https://github.com/inmite/android-butterknife-zelezny
+* https://github.com/andersericsson
+* https://github.com/koush/ion
+* https://github.com/Androguide
+* https://github.com/passsy
+* https://github.com/Todd-Davies/ProgressWheel
+* https://github.com/gabrielemariotti
+* https://github.com/BoD/android-contentprovider-generator
+* https://github.com/mrleolink/SimpleInfiniteCarousel
+* https://github.com/flavioarfaria
+* https://github.com/restlet/restlet-framework-java/wiki/Road-map-of-version-2.3
+* https://github.com/nicolasjafelle?tab=repositories
+* https://github.com/hoang8f?tab=repositories
+* https://github.com/umano/MultiItemRowListAdapter
+* https://github.com/nvanbenschoten/motion
+* https://github.com/passsy/android-HoloCircularProgressBar
+* https://github.com/nicolasjafelle/PagingListView
+* https://github.com/square
+* https://github.com/kshark27?tab=repositories
+* https://github.com/futuresimple/android-datepickers
+* https://github.com/antoniolg?tab=repositories
+* https://github.com/SueSmith?tab=repositories
+* https://github.com/iPaulPro/Android-TextViewPager
+* https://github.com/dmytrodanylyk/android-process-buton
+* https://github.com/dmytrodanylyk/volley-sample
+* https://github.com/dommerq/SuperListview
+* https://github.com/dommerq?tab=repositories
+* https://github.com/saik0/UnifiedPreference
+* https://github.com/saik0/Android-RobotoTextView
+* https://github.com/lzanita09?tab=repositories
+* https://github.com/ogrebgr/android_volley_examples
+* https://github.com/ogrebgr/khandroid/tree/master/khandroid_lib/src/com/github/khandroid/rest
+* https://github.com/mattprecious/telescope
+* https://github.com/mattprecious/locationnotifier
+* https://github.com/smanikandan14/Volley-demo
+* https://github.com/alexvasilkov/fluffy-commons
+* https://github.com/ManuelPeinado?tab=repositories
+* https://github.com/ManuelPeinado/MultiChoiceAdapter
+* https://github.com/ManuelPeinado/Calligraphy
+* https://github.com/hateum/gast-lib
+* https://github.com/raweng/android-different-loading-animations
+* https://github.com/negusoft/NativeResources
+* https://github.com/kikoso/Swipeable-Cards
+* https://github.com/hoang8f/android-flat-button
+* https://github.com/hoang8f/Sensor-Logger
+* https://github.com/hoang8f/android-segmented-control
+* https://github.com/erchenger/SizeAdjustingTextView/tree/master/SizeAdjustingTextView/src/com/elliott/chenger/sizeadjustingtextview
+* https://github.com/dommerq/SuperListview/
+* https://github.com/kolipass/RoundedImageView
+* https://github.com/daimajia/AndroidImageSlider
+* https://github.com/medyo/dynamicbox
+* https://github.com/afollestad/Cards-UI
+* https://github.com/DesarrolloAntonio/FragmentTransactionExtended
+* https://github.com/r0adkll/deadSkunk
+* https://github.com/r0adkll/AlphaHex
+* https://github.com/Alexrs95/CircularButton
+* https://github.com/marvinlabs/android-intents
+* https://github.com/dmytrodanylyk/circular-progress-button
+* https://github.com/matrixxun/PullToZoomInListView
+* https://github.com/medyo
+* https://github.com/groodt?tab=repositories
+* https://github.com/tizionario
+* https://github.com/FilipPudak/ProgressPieView
+* https://github.com/Sefford/CircularProgressDrawable
+* http://blog.danlew.net/2014/03/30/android-tips-round-up-part-1/
+* https://github.com/lulumeya/passbookview
+* https://github.com/gabrielemariotti/AndroidStudioTemplate
+* http://antonioleiva.com/
+* https://github.com/chrisbanes/philm
+* https://github.com/keyboardsurfer/Crouton
+* https://github.com/dschuermann/html-textview
+* https://github.com/Pixplicity/EasyPreferences
+* https://github.com/daimajia/AndroidViewAnimations
+* https://github.com/ViewsForAndroid/generator-andy/blob/develop/README.md
+* https://github.com/aws/aws-sdk-android/tree/master/src/com/amazonaws
+* https://github.com/daimajia/AnimationEasingFunctions
+* https://github.com/daimajia/Android-Charts
+* https://github.com/googlesamples
+* https://github.com/Androguide/cardsui-for-android
+* https://github.com/google/iosched
+* https://github.com/hmkcode/Android
+* https://github.com/rampo/ShowcaseView
+* https://github.com/Pkmmte/CircularImageView
+* https://github.com/blackfizz/EazeGraph
+* http://bos-tgdev01wv/DispatchCreatorPortal/Dispatch/Create
+* https://github.com/mrmans0n/smart-location-lib
+* https://github.com/mikepenz/Android-ActionItemBadge
+* https://github.com/aporter/coursera-android/tree/master/Examples
+* https://github.com/mmBs/NavigationDrawerSI
+* https://github.com/premnirmal
+* https://github.com/pavlospt
+* https://github.com/thuytrinh
+* http://alamkanak.github.io/android-libraries-and-resources/
+* https://github.com/pavlospt/CircleView
+* https://github.com/moondroid/SeekBarHint
+* https://github.com/tuenti/ButtonMenu
+* https://github.com/yoavst/quickapps
+* https://github.com/makovkastar/FloatingActionButton
+* https://github.com/medyo/fancybuttons
+* https://github.com/rampo/UpdateChecker
+* https://github.com/umeng/apf
+* https://github.com/umeng/umeng-android-sdk-theme
+* https://github.com/commonsguy/cw-advandroid
+* https://github.com/shir60bhushan
+* https://github.com/ligi/AXT
+* https://github.com/lewisjdeane/L-Dialogs
+* https://github.com/serso/android-checkout
+* https://github.com/sockeqwe/CircleProgressView
+* https://github.com/liu-yanjun/crash-log-report
+* https://github.com/Arasthel/SwissKnife
+* https://github.com/marcoRS
+* https://github.com/evothings
+* https://github.com/gorbin/ASNE
+* https://github.com/castorflex/SmoothProgressBar/tree/dev
+* https://github.com/path/android-priority-jobqueue
+* https://github.com/marvinlabs/android-floatinglabel-widgets
+* https://github.com/satyan/sugar
+* https://github.com/PaulTR/AndroidDemoProjects/tree/master/Animations
+* https://github.com/daimajia/AndroidSwipeLayout
+* https://github.com/TwistedEquations/TwistVolley
+* https://github.com/MostafaGazar/Widgets
+* https://github.com/lawloretienne/QuickReturn
+* https://github.com/lucasr
+* https://github.com/2359media/EasyAndroidAnimations
+* https://github.com/lucasr/dspec
+* https://github.com/ssaurel/android-clock-livewallpaper
+* https://github.com/MrEngineer13/SnackBar
+* https://github.com/Instagram/ig-json-parser/
+* https://github.com/cymcsg/UltimateAndroid#english_introduction
+* https://github.com/alamkanak/Android-Week-View
+* https://github.com/norbsoft/android-typeface-helper
+* https://github.com/markushi/android-circlebutton
+* https://github.com/fnk0/Android-Wear-Codelab
+* https://github.com/dmytrodanylyk
+* https://github.com/klinker24/Talon-for-Twitter
+* https://github.com/I-am-Reinvented/ToolbarMenudrawer
+* https://github.com/baoyongzhang/android-PullRefreshLayout
+* https://github.com/ribot?page=2
+* https://github.com/kanytu/android-parallax-recyclerview
+* https://github.com/skyfishjy/android-ripple-background
+* https://github.com/ReactiveX/RxAndroid
+* https://github.com/BlueMor/Android-PullLayout
+* https://github.com/pavlospt/RoundedLetterView
+* https://github.com/beworker/tinybus
+* https://github.com/ksoichiro/Android-ObservableScrollView
+* https://github.com/pnikosis/materialish-progress
+* https://github.com/chiuki/advanced-textview
+* https://github.com/kapoor/Android_Example_Projects
+* https://github.com/kyze8439690/RevealLayout
+* https://github.com/mikepenz/Android-Iconics
+* https://github.com/mikepenz/LollipopShowcase
+* https://github.com/saulmm/Android-Material-Example
+* https://github.com/agrosner/DBFlow
+* https://github.com/afollestad/material-dialogs/
+* https://github.com/draskosaric/MedicalReminder
+* http://buildingandroidapps.com/
+* https://github.com/mattlogan/NDKTest
+* https://github.com/Kursulla
+* https://github.com/mikepenz
+* https://github.com/tekinarslan/AndroidMaterialDesignToolbar
+* http://www.nickjr.com/kids/paw-patrol/
+* https://github.com/sakebook
+* https://github.com/JakeWharton/Telecine
+* https://github.com/realtime-framework
+* https://github.com/EverythingMe/android-logger
+* https://github.com/EverythingMe/plaxien
+* https://github.com/orhanobut/wasp
+* https://github.com/polok/TaggerString
+* https://github.com/snowdream/awesome-android
+* https://github.com/snowdream
+* https://github.com/szugyi/Android-CircleMenu
+* https://github.com/oguzbilgener/CircularFloatingActionMenu
+* https://github.com/Avocarrot/json2view
+* https://github.com/PhilJay/AndroidElementals
+* https://github.com/alexzaitsev/freepager
+* https://github.com/googlesamples/android-play-location
+* https://github.com/andnexus/android-testing
+* https://github.com/avast/android-styled-dialogs
+* https://github.com/mrmans0n/clusterer
+* https://github.com/cymcsg/UltimateAndroid
+* https://github.com/nhaarman/supertooltips
+* https://github.com/nhaarman/trinity
+* https://github.com/cesards/AndroidElementals
+* https://github.com/cesards/AndroidShell
+* https://github.com/cesards/WonderAdapter
+* https://github.com/bluelinelabs/LoganSquare
+* https://github.com/pedrovgs/Lynx
 * https://github.com/pedrovgs/EffectiveAndroidUI
 * https://github.com/pedrovgs/DraggablePanel
 * https://github.com/afollestad/material-dialogs
